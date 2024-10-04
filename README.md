@@ -6,7 +6,7 @@ This repository contains a square loader animation with hover effects. The loade
 
 Here's a preview of the CSS-based square loader animation with the text "Skm" in the center:
 
-![Square Loader Animation](path_to_your_image_or_gif.gif)
+![Square Loader Animation](https://ibb.co/G0LfnBW)
 
 [Click here to see the live animation demo](link_to_your_live_demo_page)
 
