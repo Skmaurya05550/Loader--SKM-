@@ -8,7 +8,7 @@ Here's a preview of the CSS-based square loader animation with the text "Skm" in
 
 ![Square Loader Animation](https://i.ibb.co/xD0KXP1/IMG-20241004-175635.jpg)
 
-[Click here to see the live animation demo](link_to_your_live_demo_page)
+[Click here to see the live animation demo](https://github.com/Skmaurya05550/Loader--SKM-)
 
 ## How it Works
 
