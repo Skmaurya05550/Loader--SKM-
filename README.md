@@ -4,7 +4,15 @@ This repository contains a square loader animation with hover effects. The loade
 
 ## GIF & Animation
 
-Here's the CSS-based square loader animation with the text "Skm" in the center:
+Here's a preview of the CSS-based square loader animation with the text "Skm" in the center:
+
+![Square Loader Animation](path_to_your_image_or_gif.gif)
+
+[Click here to see the live animation demo](link_to_your_live_demo_page)
+
+## How it Works
+
+The animation is built purely with CSS. Here's the code for reference:
 
 ```html
 <br />
@@ -58,6 +66,3 @@ body {
     border: 1rem solid #3eed9e;
 }
 </style>
-
-
-
